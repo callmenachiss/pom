@@ -1,0 +1,611 @@
+2022-01-17 12:47:57,778 [main] INFO concerto - URL is opened
+2022-01-17 12:47:57,872 [main] INFO concerto - Entered username
+2022-01-17 12:47:58,077 [main] INFO concerto - Screenshot taken
+2022-01-17 12:47:58,184 [main] INFO concerto - Clicked on Next Button
+2022-01-17 12:47:58,333 [main] INFO concerto - Entered password
+2022-01-17 12:47:58,521 [main] INFO concerto - Screenshot taken
+2022-01-17 12:47:58,613 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 12:48:00,013 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:00,456 [main] INFO concerto - User Entered the https post in textbox
+2022-01-17 12:48:00,822 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:00,981 [main] INFO concerto - User Entered the http post in textbox
+2022-01-17 12:48:01,293 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:01,655 [main] INFO concerto - User Entered the same url in textbox
+2022-01-17 12:48:01,912 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:02,200 [main] INFO concerto - User Entered the text + http post in textbox
+2022-01-17 12:48:02,469 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:02,705 [main] INFO concerto - User Entered the text + https post in textbox
+2022-01-17 12:48:02,947 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:03,167 [main] INFO concerto - User Entered the multiple url post in textbox
+2022-01-17 12:48:03,407 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:03,680 [main] INFO concerto - User Entered the text + multiple url post in textbox
+2022-01-17 12:48:03,941 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:04,128 [main] INFO concerto - User Entered the ftp url post in textbox
+2022-01-17 12:48:04,387 [main] INFO concerto - Screenshot taken
+2022-01-17 12:48:04,388 [main] INFO concerto - Scenario - verify the Hyperlinks in create/view Post & Comments -- Passed
+2022-01-17 12:52:33,429 [main] INFO concerto - URL is opened
+2022-01-17 12:52:33,523 [main] INFO concerto - Entered username
+2022-01-17 12:52:33,702 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:33,808 [main] INFO concerto - Clicked on Next Button
+2022-01-17 12:52:33,984 [main] INFO concerto - Entered password
+2022-01-17 12:52:34,152 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:34,245 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 12:52:35,828 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:36,014 [main] INFO concerto - User Entered the text in textbox
+2022-01-17 12:52:36,234 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:36,349 [main] INFO concerto - Clicked on Post Button
+2022-01-17 12:52:36,549 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:36,549 [main] INFO concerto - Scenario - verify the Post not loaded on first launch -- Passed
+2022-01-17 12:52:40,393 [main] INFO concerto - URL is opened
+2022-01-17 12:52:40,480 [main] INFO concerto - Entered username
+2022-01-17 12:52:40,652 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:40,764 [main] INFO concerto - Clicked on Next Button
+2022-01-17 12:52:40,901 [main] INFO concerto - Entered password
+2022-01-17 12:52:41,045 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:41,151 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 12:52:42,567 [main] INFO concerto - User is an Admin & access for AdminTools options
+2022-01-17 12:52:42,735 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:42,736 [main] INFO concerto - Scenario - verify the User is an Admin Access or not -- Passed
+2022-01-17 12:52:46,544 [main] INFO concerto - URL is opened
+2022-01-17 12:52:46,639 [main] INFO concerto - Entered username
+2022-01-17 12:52:46,816 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:46,908 [main] INFO concerto - Clicked on Next Button
+2022-01-17 12:52:47,061 [main] INFO concerto - Entered password
+2022-01-17 12:52:47,215 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:47,312 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 12:52:48,682 [main] INFO concerto - User is having atleast one community in the list
+2022-01-17 12:52:48,911 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:48,912 [main] INFO concerto - Scenario - verify the Community settings page Design -- Passed
+2022-01-17 12:52:52,636 [main] INFO concerto - URL is opened
+2022-01-17 12:52:52,737 [main] INFO concerto - Entered username
+2022-01-17 12:52:52,899 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:52,983 [main] INFO concerto - Clicked on Next Button
+2022-01-17 12:52:53,123 [main] INFO concerto - Entered password
+2022-01-17 12:52:53,259 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:53,346 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 12:52:54,648 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:54,977 [main] INFO concerto - User Entered the https post in textbox
+2022-01-17 12:52:55,292 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:55,438 [main] INFO concerto - User Entered the http post in textbox
+2022-01-17 12:52:55,768 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:56,063 [main] INFO concerto - User Entered the same url in textbox
+2022-01-17 12:52:56,297 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:56,522 [main] INFO concerto - User Entered the text + http post in textbox
+2022-01-17 12:52:56,776 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:56,992 [main] INFO concerto - User Entered the text + https post in textbox
+2022-01-17 12:52:57,250 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:57,465 [main] INFO concerto - User Entered the multiple url post in textbox
+2022-01-17 12:52:57,705 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:57,934 [main] INFO concerto - User Entered the text + multiple url post in textbox
+2022-01-17 12:52:58,177 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:58,315 [main] INFO concerto - User Entered the ftp url post in textbox
+2022-01-17 12:52:58,630 [main] INFO concerto - Screenshot taken
+2022-01-17 12:52:58,631 [main] INFO concerto - Scenario - verify the Hyperlinks in create/view Post & Comments -- Passed
+2022-01-17 12:53:02,418 [main] INFO concerto - URL is opened
+2022-01-17 12:53:02,522 [main] INFO concerto - Entered username
+2022-01-17 12:53:02,674 [main] INFO concerto - Screenshot taken
+2022-01-17 12:53:02,763 [main] INFO concerto - Clicked on Next Button
+2022-01-17 12:53:02,900 [main] INFO concerto - Entered password
+2022-01-17 12:53:03,056 [main] INFO concerto - Screenshot taken
+2022-01-17 12:53:03,136 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 12:53:04,631 [main] INFO concerto - Screenshot taken
+2022-01-17 12:53:04,716 [main] INFO concerto - Clicked on MenuHeader
+2022-01-17 12:53:05,249 [main] INFO concerto - Clicked on LogOut
+2022-01-17 12:53:05,262 [main] INFO concerto - Login testcase passed
+2022-01-17 19:08:09,085 [main] INFO concerto - URL is opened
+2022-01-17 19:08:09,173 [main] INFO concerto - Entered username
+2022-01-17 19:08:09,399 [main] INFO concerto - Screenshot taken
+2022-01-17 19:08:09,508 [main] INFO concerto - Clicked on Next Button
+2022-01-17 19:08:09,674 [main] INFO concerto - Entered password
+2022-01-17 19:08:09,879 [main] INFO concerto - Screenshot taken
+2022-01-17 19:08:09,986 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 19:08:12,993 [main] INFO concerto - Clicked on Privacy Policy link
+2022-01-17 19:08:12,993 [main] INFO concerto - Scenario - verify the functionality of Privacy Policy Link -- Passed
+2022-01-17 19:10:01,271 [main] INFO concerto - URL is opened
+2022-01-17 19:10:01,382 [main] INFO concerto - Entered username
+2022-01-17 19:10:01,565 [main] INFO concerto - Screenshot taken
+2022-01-17 19:10:01,658 [main] INFO concerto - Clicked on Next Button
+2022-01-17 19:10:01,840 [main] INFO concerto - Entered password
+2022-01-17 19:10:02,042 [main] INFO concerto - Screenshot taken
+2022-01-17 19:10:02,143 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 19:10:42,867 [main] INFO concerto - URL is opened
+2022-01-17 19:10:42,959 [main] INFO concerto - Entered username
+2022-01-17 19:10:43,126 [main] INFO concerto - Screenshot taken
+2022-01-17 19:10:43,220 [main] INFO concerto - Clicked on Next Button
+2022-01-17 19:10:43,379 [main] INFO concerto - Entered password
+2022-01-17 19:10:43,558 [main] INFO concerto - Screenshot taken
+2022-01-17 19:10:43,671 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 19:11:33,833 [main] INFO concerto - URL is opened
+2022-01-17 19:11:33,925 [main] INFO concerto - Entered username
+2022-01-17 19:11:34,139 [main] INFO concerto - Screenshot taken
+2022-01-17 19:11:34,241 [main] INFO concerto - Clicked on Next Button
+2022-01-17 19:11:34,387 [main] INFO concerto - Entered password
+2022-01-17 19:11:34,574 [main] INFO concerto - Screenshot taken
+2022-01-17 19:11:34,673 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-17 19:11:37,014 [main] INFO concerto - Clicked on Privacy Policy link
+2022-01-17 19:11:37,015 [main] INFO concerto - Scenario - verify the functionality of Privacy Policy Link -- Passed
+2022-01-18 16:30:13,037 [main] INFO concerto - URL is opened
+2022-01-18 16:30:13,132 [main] INFO concerto - Entered username
+2022-01-18 16:30:13,343 [main] INFO concerto - Screenshot taken
+2022-01-18 16:30:13,448 [main] INFO concerto - Clicked on Next Button
+2022-01-18 16:30:13,602 [main] INFO concerto - Entered password
+2022-01-18 16:30:13,771 [main] INFO concerto - Screenshot taken
+2022-01-18 16:30:13,871 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 16:30:15,466 [main] INFO concerto - Scenario - verify the Update Gallery Icon -- Passed
+2022-01-18 16:30:15,954 [main] INFO concerto - Screenshot taken
+2022-01-18 17:13:49,740 [main] INFO concerto - URL is opened
+2022-01-18 17:13:49,831 [main] INFO concerto - Entered username
+2022-01-18 17:13:50,045 [main] INFO concerto - Screenshot taken
+2022-01-18 17:13:50,160 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:13:50,308 [main] INFO concerto - Entered password
+2022-01-18 17:13:50,471 [main] INFO concerto - Screenshot taken
+2022-01-18 17:13:50,568 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:24:12,929 [main] INFO concerto - URL is opened
+2022-01-18 17:24:13,024 [main] INFO concerto - Entered username
+2022-01-18 17:24:13,215 [main] INFO concerto - Screenshot taken
+2022-01-18 17:24:13,315 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:24:13,460 [main] INFO concerto - Entered password
+2022-01-18 17:24:13,618 [main] INFO concerto - Screenshot taken
+2022-01-18 17:24:13,717 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:26:18,010 [main] INFO concerto - URL is opened
+2022-01-18 17:26:18,106 [main] INFO concerto - Entered username
+2022-01-18 17:26:18,328 [main] INFO concerto - Screenshot taken
+2022-01-18 17:26:18,418 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:26:18,565 [main] INFO concerto - Entered password
+2022-01-18 17:26:18,785 [main] INFO concerto - Screenshot taken
+2022-01-18 17:26:18,886 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:27:13,095 [main] INFO concerto - URL is opened
+2022-01-18 17:27:13,192 [main] INFO concerto - Entered username
+2022-01-18 17:27:13,363 [main] INFO concerto - Screenshot taken
+2022-01-18 17:27:13,455 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:27:13,614 [main] INFO concerto - Entered password
+2022-01-18 17:27:13,797 [main] INFO concerto - Screenshot taken
+2022-01-18 17:27:13,891 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:28:09,179 [main] INFO concerto - URL is opened
+2022-01-18 17:28:09,272 [main] INFO concerto - Entered username
+2022-01-18 17:28:09,457 [main] INFO concerto - Screenshot taken
+2022-01-18 17:28:09,561 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:28:09,712 [main] INFO concerto - Entered password
+2022-01-18 17:28:09,889 [main] INFO concerto - Screenshot taken
+2022-01-18 17:28:09,986 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:28:11,717 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 17:29:45,693 [main] INFO concerto - URL is opened
+2022-01-18 17:29:45,792 [main] INFO concerto - Entered username
+2022-01-18 17:29:46,005 [main] INFO concerto - Screenshot taken
+2022-01-18 17:29:46,120 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:29:46,272 [main] INFO concerto - Entered password
+2022-01-18 17:29:46,443 [main] INFO concerto - Screenshot taken
+2022-01-18 17:29:46,538 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:30:43,603 [main] INFO concerto - URL is opened
+2022-01-18 17:30:43,699 [main] INFO concerto - Entered username
+2022-01-18 17:30:43,884 [main] INFO concerto - Screenshot taken
+2022-01-18 17:30:43,991 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:30:44,144 [main] INFO concerto - Entered password
+2022-01-18 17:30:44,368 [main] INFO concerto - Screenshot taken
+2022-01-18 17:30:44,460 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:32:53,121 [main] INFO concerto - URL is opened
+2022-01-18 17:32:53,215 [main] INFO concerto - Entered username
+2022-01-18 17:32:53,444 [main] INFO concerto - Screenshot taken
+2022-01-18 17:32:53,535 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:32:53,688 [main] INFO concerto - Entered password
+2022-01-18 17:32:53,860 [main] INFO concerto - Screenshot taken
+2022-01-18 17:32:53,962 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:32:55,911 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 17:38:00,447 [main] INFO concerto - URL is opened
+2022-01-18 17:38:00,547 [main] INFO concerto - Entered username
+2022-01-18 17:38:00,738 [main] INFO concerto - Screenshot taken
+2022-01-18 17:38:00,841 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:38:00,980 [main] INFO concerto - Entered password
+2022-01-18 17:38:01,153 [main] INFO concerto - Screenshot taken
+2022-01-18 17:38:01,246 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:38:03,087 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 17:46:04,228 [main] INFO concerto - URL is opened
+2022-01-18 17:46:04,325 [main] INFO concerto - Entered username
+2022-01-18 17:46:04,530 [main] INFO concerto - Screenshot taken
+2022-01-18 17:46:04,623 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:46:04,765 [main] INFO concerto - Entered password
+2022-01-18 17:46:04,917 [main] INFO concerto - Screenshot taken
+2022-01-18 17:46:05,017 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:49:37,873 [main] INFO concerto - URL is opened
+2022-01-18 17:49:37,970 [main] INFO concerto - Entered username
+2022-01-18 17:49:38,161 [main] INFO concerto - Screenshot taken
+2022-01-18 17:49:38,257 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:49:38,407 [main] INFO concerto - Entered password
+2022-01-18 17:49:38,583 [main] INFO concerto - Screenshot taken
+2022-01-18 17:49:38,681 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:50:54,159 [main] INFO concerto - URL is opened
+2022-01-18 17:50:54,259 [main] INFO concerto - Entered username
+2022-01-18 17:50:54,449 [main] INFO concerto - Screenshot taken
+2022-01-18 17:50:54,556 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:50:54,709 [main] INFO concerto - Entered password
+2022-01-18 17:50:54,857 [main] INFO concerto - Screenshot taken
+2022-01-18 17:50:54,938 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:50:56,574 [main] INFO concerto - before
+2022-01-18 17:52:47,278 [main] INFO concerto - URL is opened
+2022-01-18 17:52:47,368 [main] INFO concerto - Entered username
+2022-01-18 17:52:47,539 [main] INFO concerto - Screenshot taken
+2022-01-18 17:52:47,637 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:52:47,789 [main] INFO concerto - Entered password
+2022-01-18 17:52:47,962 [main] INFO concerto - Screenshot taken
+2022-01-18 17:52:48,063 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:52:49,696 [main] INFO concerto - before
+2022-01-18 17:53:42,790 [main] INFO concerto - URL is opened
+2022-01-18 17:53:42,883 [main] INFO concerto - Entered username
+2022-01-18 17:53:43,109 [main] INFO concerto - Screenshot taken
+2022-01-18 17:53:43,205 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:53:43,347 [main] INFO concerto - Entered password
+2022-01-18 17:53:43,539 [main] INFO concerto - Screenshot taken
+2022-01-18 17:53:43,635 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:53:45,299 [main] INFO concerto - before
+2022-01-18 17:56:21,819 [main] INFO concerto - URL is opened
+2022-01-18 17:56:21,911 [main] INFO concerto - Entered username
+2022-01-18 17:56:22,116 [main] INFO concerto - Screenshot taken
+2022-01-18 17:56:22,204 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:56:22,360 [main] INFO concerto - Entered password
+2022-01-18 17:56:22,526 [main] INFO concerto - Screenshot taken
+2022-01-18 17:56:22,611 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:56:24,199 [main] INFO concerto - before
+2022-01-18 17:56:24,351 [main] INFO concerto - after
+2022-01-18 17:56:24,352 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 17:57:48,089 [main] INFO concerto - URL is opened
+2022-01-18 17:57:48,188 [main] INFO concerto - Entered username
+2022-01-18 17:57:48,369 [main] INFO concerto - Screenshot taken
+2022-01-18 17:57:48,460 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:57:48,597 [main] INFO concerto - Entered password
+2022-01-18 17:57:48,751 [main] INFO concerto - Screenshot taken
+2022-01-18 17:57:48,849 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:57:50,496 [main] INFO concerto - before
+2022-01-18 17:57:50,650 [main] INFO concerto - after
+2022-01-18 17:57:50,650 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 17:59:27,724 [main] INFO concerto - URL is opened
+2022-01-18 17:59:27,819 [main] INFO concerto - Entered username
+2022-01-18 17:59:27,995 [main] INFO concerto - Screenshot taken
+2022-01-18 17:59:28,088 [main] INFO concerto - Clicked on Next Button
+2022-01-18 17:59:28,228 [main] INFO concerto - Entered password
+2022-01-18 17:59:28,394 [main] INFO concerto - Screenshot taken
+2022-01-18 17:59:28,489 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 17:59:30,171 [main] INFO concerto - before
+2022-01-18 17:59:30,326 [main] INFO concerto - after
+2022-01-18 17:59:30,326 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 17:59:59,535 [main] INFO concerto - URL is opened
+2022-01-18 17:59:59,625 [main] INFO concerto - Entered username
+2022-01-18 17:59:59,808 [main] INFO concerto - Screenshot taken
+2022-01-18 17:59:59,908 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:00:00,061 [main] INFO concerto - Entered password
+2022-01-18 18:00:00,221 [main] INFO concerto - Screenshot taken
+2022-01-18 18:00:00,311 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:00:02,102 [main] INFO concerto - before
+2022-01-18 18:00:02,261 [main] INFO concerto - after
+2022-01-18 18:00:02,261 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:03:23,689 [main] INFO concerto - URL is opened
+2022-01-18 18:03:23,789 [main] INFO concerto - Entered username
+2022-01-18 18:03:24,001 [main] INFO concerto - Screenshot taken
+2022-01-18 18:03:24,101 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:03:24,253 [main] INFO concerto - Entered password
+2022-01-18 18:03:24,417 [main] INFO concerto - Screenshot taken
+2022-01-18 18:03:24,510 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:03:26,300 [main] INFO concerto - before
+2022-01-18 18:03:26,456 [main] INFO concerto - after
+2022-01-18 18:03:26,461 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:06:33,288 [main] INFO concerto - URL is opened
+2022-01-18 18:06:33,377 [main] INFO concerto - Entered username
+2022-01-18 18:06:33,571 [main] INFO concerto - Screenshot taken
+2022-01-18 18:06:33,679 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:06:33,832 [main] INFO concerto - Entered password
+2022-01-18 18:06:33,977 [main] INFO concerto - Screenshot taken
+2022-01-18 18:06:34,070 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:06:35,650 [main] INFO concerto - before
+2022-01-18 18:06:35,808 [main] INFO concerto - after
+2022-01-18 18:06:35,814 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:08:15,125 [main] INFO concerto - URL is opened
+2022-01-18 18:08:15,216 [main] INFO concerto - Entered username
+2022-01-18 18:08:15,422 [main] INFO concerto - Screenshot taken
+2022-01-18 18:08:15,518 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:08:15,688 [main] INFO concerto - Entered password
+2022-01-18 18:08:15,863 [main] INFO concerto - Screenshot taken
+2022-01-18 18:08:15,949 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:08:17,605 [main] INFO concerto - before
+2022-01-18 18:08:25,782 [main] INFO concerto - after
+2022-01-18 18:08:25,789 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:32:01,580 [main] INFO concerto - URL is opened
+2022-01-18 18:32:01,666 [main] INFO concerto - Entered username
+2022-01-18 18:32:01,864 [main] INFO concerto - Screenshot taken
+2022-01-18 18:32:01,953 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:32:02,093 [main] INFO concerto - Entered password
+2022-01-18 18:32:02,252 [main] INFO concerto - Screenshot taken
+2022-01-18 18:32:02,347 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:32:04,049 [main] INFO concerto - before
+2022-01-18 18:33:13,765 [main] INFO concerto - URL is opened
+2022-01-18 18:33:13,856 [main] INFO concerto - Entered username
+2022-01-18 18:33:14,060 [main] INFO concerto - Screenshot taken
+2022-01-18 18:33:14,174 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:33:14,323 [main] INFO concerto - Entered password
+2022-01-18 18:33:14,481 [main] INFO concerto - Screenshot taken
+2022-01-18 18:33:14,582 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:33:16,300 [main] INFO concerto - before
+2022-01-18 18:34:31,587 [main] INFO concerto - URL is opened
+2022-01-18 18:34:31,680 [main] INFO concerto - Entered username
+2022-01-18 18:34:31,875 [main] INFO concerto - Screenshot taken
+2022-01-18 18:34:31,977 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:34:32,130 [main] INFO concerto - Entered password
+2022-01-18 18:34:32,293 [main] INFO concerto - Screenshot taken
+2022-01-18 18:34:32,389 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:34:34,038 [main] INFO concerto - before
+2022-01-18 18:34:42,186 [main] INFO concerto - after
+2022-01-18 18:34:42,191 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:34:42,516 [main] INFO concerto - Screenshot taken
+2022-01-18 18:36:30,171 [main] INFO concerto - URL is opened
+2022-01-18 18:36:30,268 [main] INFO concerto - Entered username
+2022-01-18 18:36:30,476 [main] INFO concerto - Screenshot taken
+2022-01-18 18:36:30,589 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:36:30,735 [main] INFO concerto - Entered password
+2022-01-18 18:36:30,915 [main] INFO concerto - Screenshot taken
+2022-01-18 18:36:30,994 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:36:32,644 [main] INFO concerto - before
+2022-01-18 18:36:32,851 [main] INFO concerto - after
+2022-01-18 18:36:32,856 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:36:33,213 [main] INFO concerto - Screenshot taken
+2022-01-18 18:40:33,101 [main] INFO concerto - URL is opened
+2022-01-18 18:40:33,194 [main] INFO concerto - Entered username
+2022-01-18 18:40:33,420 [main] INFO concerto - Screenshot taken
+2022-01-18 18:40:33,530 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:40:33,674 [main] INFO concerto - Entered password
+2022-01-18 18:40:33,836 [main] INFO concerto - Screenshot taken
+2022-01-18 18:40:33,943 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:44:14,265 [main] INFO concerto - URL is opened
+2022-01-18 18:44:14,361 [main] INFO concerto - Entered username
+2022-01-18 18:44:14,567 [main] INFO concerto - Screenshot taken
+2022-01-18 18:44:14,667 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:44:14,817 [main] INFO concerto - Entered password
+2022-01-18 18:44:15,003 [main] INFO concerto - Screenshot taken
+2022-01-18 18:44:15,092 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:45:15,817 [main] INFO concerto - URL is opened
+2022-01-18 18:45:15,913 [main] INFO concerto - Entered username
+2022-01-18 18:45:16,125 [main] INFO concerto - Screenshot taken
+2022-01-18 18:45:16,232 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:45:16,377 [main] INFO concerto - Entered password
+2022-01-18 18:45:16,571 [main] INFO concerto - Screenshot taken
+2022-01-18 18:45:16,662 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:45:18,652 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:45:19,011 [main] INFO concerto - Screenshot taken
+2022-01-18 18:45:37,823 [main] INFO concerto - URL is opened
+2022-01-18 18:45:37,905 [main] INFO concerto - Entered username
+2022-01-18 18:45:38,084 [main] INFO concerto - Screenshot taken
+2022-01-18 18:45:38,179 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:45:38,346 [main] INFO concerto - Entered password
+2022-01-18 18:45:38,499 [main] INFO concerto - Screenshot taken
+2022-01-18 18:45:38,594 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:57:01,769 [main] INFO concerto - URL is opened
+2022-01-18 18:57:01,865 [main] INFO concerto - Entered username
+2022-01-18 18:57:02,066 [main] INFO concerto - Screenshot taken
+2022-01-18 18:57:02,176 [main] INFO concerto - Clicked on Next Button
+2022-01-18 18:57:02,324 [main] INFO concerto - Entered password
+2022-01-18 18:57:02,499 [main] INFO concerto - Screenshot taken
+2022-01-18 18:57:02,601 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 18:57:04,612 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 18:57:04,982 [main] INFO concerto - Screenshot taken
+2022-01-18 19:00:53,846 [main] INFO concerto - URL is opened
+2022-01-18 19:00:53,944 [main] INFO concerto - Entered username
+2022-01-18 19:00:54,165 [main] INFO concerto - Screenshot taken
+2022-01-18 19:00:54,267 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:00:54,413 [main] INFO concerto - Entered password
+2022-01-18 19:00:54,599 [main] INFO concerto - Screenshot taken
+2022-01-18 19:00:54,684 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:00:56,638 [main] INFO concerto - Scenario - verify View image in posts modal with carousel -- Passed
+2022-01-18 19:00:57,022 [main] INFO concerto - Screenshot taken
+2022-01-18 19:31:54,915 [main] INFO concerto - URL is opened
+2022-01-18 19:31:55,024 [main] INFO concerto - Entered username
+2022-01-18 19:31:55,231 [main] INFO concerto - Screenshot taken
+2022-01-18 19:31:55,334 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:31:55,508 [main] INFO concerto - Entered password
+2022-01-18 19:31:55,676 [main] INFO concerto - Screenshot taken
+2022-01-18 19:31:55,805 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:31:57,238 [main] INFO concerto - Screenshot taken
+2022-01-18 19:31:57,639 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:31:58,005 [main] INFO concerto - Screenshot taken
+2022-01-18 19:35:20,039 [main] INFO concerto - URL is opened
+2022-01-18 19:35:20,136 [main] INFO concerto - Entered username
+2022-01-18 19:35:20,327 [main] INFO concerto - Screenshot taken
+2022-01-18 19:35:20,426 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:35:20,598 [main] INFO concerto - Entered password
+2022-01-18 19:35:20,771 [main] INFO concerto - Screenshot taken
+2022-01-18 19:35:20,865 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:35:22,229 [main] INFO concerto - Screenshot taken
+2022-01-18 19:35:22,605 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:35:22,955 [main] INFO concerto - Screenshot taken
+2022-01-18 19:37:53,975 [main] INFO concerto - URL is opened
+2022-01-18 19:37:54,067 [main] INFO concerto - Entered username
+2022-01-18 19:37:54,289 [main] INFO concerto - Screenshot taken
+2022-01-18 19:37:54,392 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:37:54,560 [main] INFO concerto - Entered password
+2022-01-18 19:37:54,774 [main] INFO concerto - Screenshot taken
+2022-01-18 19:37:54,872 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:37:56,201 [main] INFO concerto - Screenshot taken
+2022-01-18 19:37:56,558 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:37:56,919 [main] INFO concerto - Screenshot taken
+2022-01-18 19:42:33,835 [main] INFO concerto - URL is opened
+2022-01-18 19:42:33,927 [main] INFO concerto - Entered username
+2022-01-18 19:42:34,150 [main] INFO concerto - Screenshot taken
+2022-01-18 19:42:34,263 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:42:34,434 [main] INFO concerto - Entered password
+2022-01-18 19:42:34,597 [main] INFO concerto - Screenshot taken
+2022-01-18 19:42:34,692 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:42:36,044 [main] INFO concerto - Screenshot taken
+2022-01-18 19:42:36,303 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:42:36,713 [main] INFO concerto - Screenshot taken
+2022-01-18 19:42:37,241 [main] INFO concerto - User is edited the text post using post controls option
+2022-01-18 19:47:01,991 [main] INFO concerto - URL is opened
+2022-01-18 19:47:02,090 [main] INFO concerto - Entered username
+2022-01-18 19:47:02,305 [main] INFO concerto - Screenshot taken
+2022-01-18 19:47:02,409 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:47:02,557 [main] INFO concerto - Entered password
+2022-01-18 19:47:02,711 [main] INFO concerto - Screenshot taken
+2022-01-18 19:47:02,808 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:47:04,207 [main] INFO concerto - Screenshot taken
+2022-01-18 19:47:04,590 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:47:04,936 [main] INFO concerto - Screenshot taken
+2022-01-18 19:47:05,601 [main] INFO concerto - User is edited the text post using post controls option
+2022-01-18 19:47:05,835 [main] INFO concerto - Screenshot taken
+2022-01-18 19:47:05,836 [main] INFO concerto - Scenario - Verify the View Post Edited Timestamp is updated correctly in view post of discussion page -- Passed
+2022-01-18 19:48:49,541 [main] INFO concerto - URL is opened
+2022-01-18 19:48:49,629 [main] INFO concerto - Entered username
+2022-01-18 19:48:49,839 [main] INFO concerto - Screenshot taken
+2022-01-18 19:48:49,937 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:48:50,078 [main] INFO concerto - Entered password
+2022-01-18 19:48:50,256 [main] INFO concerto - Screenshot taken
+2022-01-18 19:48:50,343 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:48:51,685 [main] INFO concerto - Screenshot taken
+2022-01-18 19:48:52,008 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:48:52,408 [main] INFO concerto - Screenshot taken
+2022-01-18 19:48:53,065 [main] INFO concerto - User is edited the text post using post controls option
+2022-01-18 19:48:53,299 [main] INFO concerto - Screenshot taken
+2022-01-18 19:48:53,299 [main] INFO concerto - Scenario - Verify the View Post Edited Timestamp is updated correctly in view post of discussion page -- Passed
+2022-01-18 19:49:29,347 [main] INFO concerto - URL is opened
+2022-01-18 19:49:29,441 [main] INFO concerto - Entered username
+2022-01-18 19:49:29,620 [main] INFO concerto - Screenshot taken
+2022-01-18 19:49:29,707 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:49:29,877 [main] INFO concerto - Entered password
+2022-01-18 19:49:30,038 [main] INFO concerto - Screenshot taken
+2022-01-18 19:49:30,128 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:49:31,393 [main] INFO concerto - Screenshot taken
+2022-01-18 19:49:31,686 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:49:32,026 [main] INFO concerto - Screenshot taken
+2022-01-18 19:51:28,814 [main] INFO concerto - URL is opened
+2022-01-18 19:51:28,915 [main] INFO concerto - Entered username
+2022-01-18 19:51:29,119 [main] INFO concerto - Screenshot taken
+2022-01-18 19:51:29,220 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:51:29,378 [main] INFO concerto - Entered password
+2022-01-18 19:51:29,555 [main] INFO concerto - Screenshot taken
+2022-01-18 19:51:29,650 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:51:30,985 [main] INFO concerto - Screenshot taken
+2022-01-18 19:51:31,287 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:51:31,642 [main] INFO concerto - Screenshot taken
+2022-01-18 19:52:26,314 [main] INFO concerto - URL is opened
+2022-01-18 19:52:26,403 [main] INFO concerto - Entered username
+2022-01-18 19:52:26,616 [main] INFO concerto - Screenshot taken
+2022-01-18 19:52:26,717 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:52:26,872 [main] INFO concerto - Entered password
+2022-01-18 19:52:27,047 [main] INFO concerto - Screenshot taken
+2022-01-18 19:52:27,148 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:52:28,544 [main] INFO concerto - Screenshot taken
+2022-01-18 19:52:28,877 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:52:29,219 [main] INFO concerto - Screenshot taken
+2022-01-18 19:56:25,383 [main] INFO concerto - URL is opened
+2022-01-18 19:56:25,481 [main] INFO concerto - Entered username
+2022-01-18 19:56:25,670 [main] INFO concerto - Screenshot taken
+2022-01-18 19:56:25,772 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:56:25,919 [main] INFO concerto - Entered password
+2022-01-18 19:56:26,079 [main] INFO concerto - Screenshot taken
+2022-01-18 19:56:26,166 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:56:27,537 [main] INFO concerto - Screenshot taken
+2022-01-18 19:56:27,863 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:56:28,206 [main] INFO concerto - Screenshot taken
+2022-01-18 19:58:07,783 [main] INFO concerto - URL is opened
+2022-01-18 19:58:07,875 [main] INFO concerto - Entered username
+2022-01-18 19:58:08,063 [main] INFO concerto - Screenshot taken
+2022-01-18 19:58:08,155 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:58:08,325 [main] INFO concerto - Entered password
+2022-01-18 19:58:08,486 [main] INFO concerto - Screenshot taken
+2022-01-18 19:58:08,569 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:58:09,886 [main] INFO concerto - Screenshot taken
+2022-01-18 19:58:10,183 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:58:10,511 [main] INFO concerto - Screenshot taken
+2022-01-18 19:59:26,972 [main] INFO concerto - URL is opened
+2022-01-18 19:59:27,056 [main] INFO concerto - Entered username
+2022-01-18 19:59:27,241 [main] INFO concerto - Screenshot taken
+2022-01-18 19:59:27,343 [main] INFO concerto - Clicked on Next Button
+2022-01-18 19:59:27,534 [main] INFO concerto - Entered password
+2022-01-18 19:59:27,701 [main] INFO concerto - Screenshot taken
+2022-01-18 19:59:27,802 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-18 19:59:29,219 [main] INFO concerto - Screenshot taken
+2022-01-18 19:59:29,516 [main] INFO concerto - User Entered the https post in textbox
+2022-01-18 19:59:29,856 [main] INFO concerto - Screenshot taken
+2022-01-18 19:59:30,400 [main] INFO concerto - User is edited the text post using post controls option
+2022-01-18 19:59:30,599 [main] INFO concerto - Screenshot taken
+2022-01-18 19:59:30,600 [main] INFO concerto - Scenario - Verify the View Post Edited Timestamp is updated correctly in view post of discussion page -- Passed
+2022-01-19 19:08:33,688 [main] INFO concerto - URL is opened
+2022-01-19 19:08:33,818 [main] INFO concerto - Entered username
+2022-01-19 19:08:33,980 [main] INFO concerto - Screenshot taken
+2022-01-19 19:08:34,080 [main] INFO concerto - Clicked on Next Button
+2022-01-19 19:08:34,208 [main] INFO concerto - Entered password
+2022-01-19 19:08:34,396 [main] INFO concerto - Screenshot taken
+2022-01-19 19:08:34,485 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-19 19:08:36,171 [main] INFO concerto - User Clicked on Message widget
+2022-01-19 19:08:36,496 [main] INFO concerto - Screenshot taken
+2022-01-19 19:08:36,497 [main] INFO concerto - Scenario - verify the profile Image in Message widget -- Passed
+2022-01-19 19:15:38,110 [main] INFO concerto - URL is opened
+2022-01-19 19:15:38,201 [main] INFO concerto - Entered username
+2022-01-19 19:15:38,378 [main] INFO concerto - Screenshot taken
+2022-01-19 19:15:38,474 [main] INFO concerto - Clicked on Next Button
+2022-01-19 19:15:38,616 [main] INFO concerto - Entered password
+2022-01-19 19:15:38,794 [main] INFO concerto - Screenshot taken
+2022-01-19 19:15:38,886 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-19 19:15:38,906 [main] INFO concerto - User viewed the footer content in collab Web App
+2022-01-19 19:15:40,163 [main] INFO concerto - Screenshot taken
+2022-01-19 19:15:40,164 [main] INFO concerto - Scenario - verify the Footer content -- Passed
+2022-01-20 18:46:04,290 [main] INFO concerto - URL is opened
+2022-01-20 18:46:04,389 [main] INFO concerto - Entered username
+2022-01-20 18:46:04,589 [main] INFO concerto - Screenshot taken
+2022-01-20 18:46:04,699 [main] INFO concerto - Clicked on Next Button
+2022-01-20 18:46:04,841 [main] INFO concerto - Entered password
+2022-01-20 18:46:05,013 [main] INFO concerto - Screenshot taken
+2022-01-20 18:46:05,106 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-20 18:46:06,575 [main] INFO concerto - User Clicked on Pages subtab in community
+2022-01-20 18:47:22,583 [main] INFO concerto - URL is opened
+2022-01-20 18:47:22,683 [main] INFO concerto - Entered username
+2022-01-20 18:47:22,886 [main] INFO concerto - Screenshot taken
+2022-01-20 18:47:22,996 [main] INFO concerto - Clicked on Next Button
+2022-01-20 18:47:23,151 [main] INFO concerto - Entered password
+2022-01-20 18:47:23,358 [main] INFO concerto - Screenshot taken
+2022-01-20 18:47:23,449 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-20 18:47:25,076 [main] INFO concerto - User Clicked on Pages subtab in community
+2022-01-20 18:47:25,271 [main] INFO concerto - Screenshot taken
+2022-01-20 18:47:25,272 [main] INFO concerto - Scenario - verify the community pages -- Passed
+2022-01-20 19:06:13,364 [main] INFO concerto - URL is opened
+2022-01-20 19:06:13,463 [main] INFO concerto - Entered username
+2022-01-20 19:06:13,651 [main] INFO concerto - Screenshot taken
+2022-01-20 19:06:13,753 [main] INFO concerto - Clicked on Next Button
+2022-01-20 19:06:13,889 [main] INFO concerto - Entered password
+2022-01-20 19:06:14,069 [main] INFO concerto - Screenshot taken
+2022-01-20 19:06:14,163 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-20 19:06:14,171 [main] INFO concerto - User Clicked on Editer page
+2022-01-20 19:06:14,321 [main] INFO concerto - Screenshot taken
+2022-01-20 19:06:14,322 [main] INFO concerto - Scenario - verify the functionality of Editor Page tab -- Passed
+2022-01-20 19:08:09,070 [main] INFO concerto - URL is opened
+2022-01-20 19:08:09,172 [main] INFO concerto - Entered username
+2022-01-20 19:08:09,345 [main] INFO concerto - Screenshot taken
+2022-01-20 19:08:09,457 [main] INFO concerto - Clicked on Next Button
+2022-01-20 19:08:09,597 [main] INFO concerto - Entered password
+2022-01-20 19:08:09,797 [main] INFO concerto - Screenshot taken
+2022-01-20 19:08:09,893 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-20 19:08:10,979 [main] INFO concerto - Screenshot taken
+2022-01-20 19:08:10,985 [main] INFO concerto - User Clicked on Editer page
+2022-01-20 19:08:11,163 [main] INFO concerto - Screenshot taken
+2022-01-20 19:08:11,163 [main] INFO concerto - Scenario - verify the functionality of Editor Page tab -- Passed
+2022-01-20 19:17:47,209 [main] INFO concerto - URL is opened
+2022-01-20 19:17:47,304 [main] INFO concerto - Entered username
+2022-01-20 19:17:47,508 [main] INFO concerto - Screenshot taken
+2022-01-20 19:17:47,610 [main] INFO concerto - Clicked on Next Button
+2022-01-20 19:17:47,759 [main] INFO concerto - Entered password
+2022-01-20 19:17:47,934 [main] INFO concerto - Screenshot taken
+2022-01-20 19:17:48,029 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-20 19:17:49,496 [main] INFO concerto - User creating the new post in view post page
+2022-01-20 19:17:49,730 [main] INFO concerto - Scenario - verify the User is able to create the post -- Passed
+2022-01-20 19:30:34,145 [main] INFO concerto - URL is opened
+2022-01-20 19:30:34,230 [main] INFO concerto - Entered username
+2022-01-20 19:30:34,420 [main] INFO concerto - Screenshot taken
+2022-01-20 19:30:34,515 [main] INFO concerto - Clicked on Next Button
+2022-01-20 19:30:34,665 [main] INFO concerto - Entered password
+2022-01-20 19:30:34,839 [main] INFO concerto - Screenshot taken
+2022-01-20 19:30:34,945 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-20 19:30:36,494 [main] INFO concerto - User Entered the text only post in textbox
+2022-01-20 19:30:36,669 [main] INFO concerto - Scenario - verify the lazy loading in view post page -- Passed
+2022-01-24 10:19:39,054 [main] INFO concerto - URL is opened
+2022-01-24 10:19:39,145 [main] INFO concerto - Entered username
+2022-01-24 10:19:39,326 [main] INFO concerto - Screenshot taken
+2022-01-24 10:19:39,429 [main] INFO concerto - Clicked on Next Button
+2022-01-24 10:19:39,576 [main] INFO concerto - Entered password
+2022-01-24 10:19:39,746 [main] INFO concerto - Screenshot taken
+2022-01-24 10:19:39,821 [main] INFO concerto - Clicked on Sign-in Button
+2022-01-24 10:19:41,920 [main] INFO concerto - Screenshot taken
+2022-01-24 10:19:41,920 [main] INFO concerto - Scenario - verify the Removed character limits in the post and comment -- Passed
