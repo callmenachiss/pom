@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Premier_Collaboration">
+
+<listeners>
+		<listener class-name="utilities.Reporting" />
+</listeners>
+
+  <test thread-count="5" name="Concerto">
+  
+    <parameter name="browser" value="chrome" />
+    
+    <classes>
+<!--            <class name="testCases.TC_LoginDDT_002"/> -->
+<!--            <class name="testCases.Postsnotloadedonfirstlaunch3794"/> -->
+<!--            <class name="testCases.UIAdminToolsLoadingbasisUserPrivileges3731"/> -->
+<!--            <class name="testCases.UICommunitySettingPageDesignPC3350"/> -->
+<!--            <class name="testCases.UIParseHyperlinksinPosts3736"/> -->
+<!--            <class name="testCases.UIPrivacyPolicyLinktobeupdated3883"/> -->
+<!--            <class name="testCases.UIUpdateGalleryIcontoNumber3735"/> -->
+<!--            <class name="testCases.UIViewImageinPostsModalwithcarousel3728"/> -->
+<!--            <class name="testCases.UIViewPostEditedTimestamp3793"/> -->
+<!--            <class name="testCases.ProfileIconnotappearinginmessagewidget4057"/> -->
+<!--            <class name="testCases.QAFooterAdminPortalWebApp3151"/> -->
+<!--            <class name="testCases.RemovecharacterlimitonPostsandComments4059"/> -->
+<!--            <class name="testCases.ReturnPostandPostCommentsinchronologicalorder3911"/> -->
+<!--            <class name="testCases.UICommunityPagesWebApp3808"/> -->
+<!--            <class name="testCases.UICreateEditPage3168"/> -->
+<!--            <class name="testCases.UICreatePosts3729"/> -->
+<!--            <class name="testCases.UILazyLoadCommentsforPost3816"/> -->
+<!--            <class name="testCases.UILazyloadingofposts3796"/> -->
+<!--            <class name="testCases.Unabletocreateanewconversation4088"/> -->
+<!--            <class name="testCases.UIUseAccordiontoshowtheChildpagesinCommunitypages3975"/> -->
+<!--            <class name="testCases.UITextWrapimplementationinPost4001"/> -->
+<!--            <class name="testCases.UIViewcommentsinPostProfileIconandEditedTimestamp3795"/> -->
+<!--            <class name="testCases.UIViewPostNoPostMessagestyle3734"/> -->
+<!--            <class name="testCases.RegressionforCollabWebAppUI"/> -->
+<!--            <class name="testCases.TC_UserLogin_001"/> -->
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
